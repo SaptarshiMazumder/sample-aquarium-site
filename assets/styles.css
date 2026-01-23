@@ -140,10 +140,11 @@ img {
 }
 
 .card {
-  background: #ffffff;
+  background: linear-gradient(140deg, #e9f6ff 0%, #ffffff 55%, #f3f9ff 100%);
   padding: 24px;
   border-radius: 16px;
   box-shadow: 0 16px 36px rgba(5, 23, 40, 0.08);
+  border: 1px solid rgba(44, 194, 255, 0.18);
 }
 
 .big {
